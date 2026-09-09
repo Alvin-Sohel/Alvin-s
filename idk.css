@@ -1,0 +1,310 @@
+#videjio
+{
+margin: auto;
+display: flex;
+flex-direction: row;
+border: none;
+background: none;
+border-radius: 10px;
+}
+
+video
+{
+margin: auto;
+display: flex;
+flex-direction: row;
+border: none;
+background: none;
+border-radius: 10px;
+border-radius: 10px;
+background-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+border-radius: 10;
+border-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+}
+
+#videjioul
+{
+    border-radius: 10px;
+    background-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+    
+}
+
+#videjio:hover
+{
+    Transform: scale(1.0);
+}
+
+#bunch
+{
+    background-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+    border: none;
+    border-radius: 10px;
+
+}
+
+#bunchul
+{
+    background-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: -100px;
+}
+
+#bunch:hover
+{transform: scale(1);}
+
+@font-face {
+            font-family: Codec;
+            src: url("./fonts/MGS1\ Codec.ttf");
+        }
+
+        @font-face {
+            font-family: Title;
+            src: url("./fonts/METAG___.TTF");
+        }
+
+          @font-face {
+            font-family: RDR;
+            src: url("./fonts/chinese\ rocks\ rg.ttf");
+        }
+
+          @font-face {
+            font-family: KCD;
+            src: url("./fonts/Maximilian.ttf");
+        }
+        
+        
+        body {
+        background: midnightblue;
+
+
+        margin: 0;
+        padding: 0;
+
+        
+
+    }
+    
+        h1 {
+        font-family: Title;
+        }
+
+        body {
+            color: #000000;
+            padding:
+         }
+
+         header
+         {
+             background-image: url("https://media1.tenor.com/m/3ifBWC27ee8AAAAd/asmongold-asmongold-head.gif");
+             background-repeat: no-repeat;
+             background-image: center;
+             background-size: cover;
+             padding: 300px;
+
+         }
+
+         section {
+            color: black;
+            background: midnightblue;
+            padding: 300px;
+            display: flex;
+            flex-direction: row;
+         }
+
+         footer {
+            color: white;
+            background: black;
+            padding: 70px
+         }
+
+         div {
+            margin: 0px;
+            padding: 100px;
+            font-size: 3rem;
+            background-color: midnightblue;
+         }
+
+         h1
+         {
+            background-image: url(https://media1.tenor.com/m/11sM_GsMiGgAAAAC/paging-mr-morrow-fedorable.gif);
+            background-repeat: no-repeat;
+             background-image: center;
+             background-size: cover;
+             padding:15px;
+             margin: 0;
+         }
+
+         #uno
+         {
+            color: black;
+            font-family: Title;
+            border-style:inset;
+            border-color: red;
+            border-width: 5px;
+            border-radius: 5px;
+            background-color: red;
+            padding: 1px;
+            margin: 20px;
+            cursor: pointer;
+         }
+
+         #dose
+         {
+            background-color: red;
+            border-color: red;
+            font-family: RDR;
+            border-style:inset;
+            border-width: 5px;
+            border-radius: 5px;
+            margin: 20px;
+            cursor: pointer;
+         }
+
+         #trese
+         {
+            background-color: red;
+            border-color: red;
+            font-family: KCD;
+            border-style:inset;
+            border-width: 5px;
+            border-radius: 5px;
+            margin: 20px;
+            cursor: pointer;
+         }
+
+         ul{
+
+            padding:10px 800px;
+            list-style: none;
+            background-image: url(https://i.pinimg.com/564x/cd/ea/51/cdea5147a47a7d598c2c240d4ebefc1c.jpg);
+            padding: 15px;
+            margin: auto;
+            display: flex;
+            flex-direction: row;
+         }
+
+         li {
+            background-color: red;
+            padding: 5px 5px 5px 10px;
+            margin: auto;
+            font-family: Codec;
+            border-style:inset;
+            border-color: red;
+            border-width: 3px;
+            border-radius: 5px;
+            font-size: 2.5rem;
+         }
+
+         #tabby {
+         border-style: groove;
+         border-width: 10px;
+         border-radius: 100px;
+         border-color: red;
+         margin-top: -225px;
+         }
+
+         #Metal
+         {
+            background-image: none;
+            font-family: Title;
+            text-align: center;
+         }
+
+         #Red
+         {
+            background-image: none;
+            font-family: RDR;
+            color: Red;
+            text-align: center;
+         }
+
+         #Kingdom
+          {
+            background-image: none;
+            font-family: KCD;
+            Color: Gold;
+            text-align: center;
+          }
+
+          p
+          {
+            font-size: 2rem;
+          }
+
+          #Gear
+          {
+            font-family: codec;
+            color: limegreen;
+          }
+
+          #Dead
+         {
+            font-family: RDR;
+            color: darkred
+         }
+
+         #Cum
+         {
+            font-family: KCD;
+            color:darkgoldenrod
+         }
+
+         [data-tab-content]
+         {
+            display: none;
+         }
+
+         .thebutton :hover
+         {
+            color: green;
+         }
+         
+         [data-tab-content]
+         {
+            display: none;
+         }
+
+         .active[data-tab-content] 
+         {
+            display: block;
+            margin-top: -525px;
+         }
+
+         #uno:hover
+         {
+            Transform: scale(1.05);
+         }
+
+         #dose:hover
+         {
+            Transform: scale(1.05);
+         }
+
+         #trese:hover 
+         {
+            Transform: scale(1.05);
+         }
+
+         a
+         {
+            text-decoration: none;
+            color: black;
+         }
+
+         li:hover
+         {
+            Transform: scale(1.05);
+         }
+
+         a:hover 
+         {
+            color: midnightblue;
+         }
+
+         #paradiv
+         {
+            font-family: codec;
+            color: white;
+         }
